@@ -17,3 +17,9 @@
 
 
 ## Contact With Me 📶
+<a href="https://www.linkedin.com/in/mahdi-malvandi-8a2924293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<img height="50rem" src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/icons8-linkedin-logo-94.png?raw=true" />
+</a>
+<a href="https://t.me/Mahdi_ml6">
+<img height="50rem" src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/icons8-linkedin-logo-94.png?raw=true" />
+</a>
