@@ -49,6 +49,7 @@ print(sayMyName())
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MahdiMalvandi/MahdiMalvandi/5c0967327f9ffabd2a295b205f92e0ffe45461c3/tailwind-css-seeklogo.com.svg" width="36" height="36" alt="TailwindCSS" /></a>
         <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/pngegg.png?raw=true" width="36" height="36" alt="CSS3" /></a>
          <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/Python_logo_01.svg.png?raw=true" width="40" height="40" alt="Python" /></a>
+         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/dj3164d344-django-logo-django-logo-png-transparent-amp-svg-vector-freebie-supply_prev_ui.png?raw=true" width="45" height="38" alt="Python" /></a>
   
 </p>
 
