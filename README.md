@@ -8,7 +8,7 @@ def sayMyName():
         "city": 'mashhad',
         "tools": {
             "front_end": ["HTML","CSS","JavaScript","TailwindCSS","SASS"],
-            "back_end": ["Django", "Flask"]
+            "back_end": ["Django"]
         },
         "grade": '11th',
     }
@@ -33,7 +33,7 @@ print(sayMyName())
     <li> I am 17 years old and</li>
     <li> I live in Iran - Mashhad</li>
     <li> I am in the 11th grade and I am studying mathematics and physics</li>
-    <li> I am learning django and flask</li>
+    <li> I am learning django</li>
     <li> I ❤️ the world of programming and everything that uses programming in it</li>
 
 </ul>  
