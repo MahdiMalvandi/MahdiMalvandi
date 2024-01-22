@@ -8,7 +8,7 @@ def sayMyName():
         "city": "mashhad",
         "tools": {
             "front_end": ["HTML","CSS","JavaScript","TailwindCSS","SASS"],
-            "back_end": ["Django"]
+            "back_end": ["Django", "FastAPI"]
         },
         "grade": "11th",
     }
