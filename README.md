@@ -9,9 +9,8 @@
 <ul></ul>
 
 <ul>
-    <li> I am 17 years old and</li>
+    <li> I am 18 years old and</li>
     <li> I live in Iran - Mashhad</li>
-    <li> I am in the 12th grade and I am studying mathematics and physics</li>
     <li> I ❤️ the world of programming and everything that uses programming in it</li>
 
 </ul>  
@@ -38,8 +37,8 @@ def sayMyName():
         "country": "iran",
         "city": "mashhad",
         "tools": {
-            "front_end": ["HTML","CSS","JavaScript","TailwindCSS","SASS"],
-            "back_end": ["Django", "FastAPI", "PHP"]
+            "front_end": ["HTML","CSS","JavaScript"],
+            "back_end": ["Django", "FastAPI"]
         },
         "grade": "11th",
     }
@@ -72,7 +71,6 @@ print(sayMyName())
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
     <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/></a>
     <a href="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
     <a href="" target="_blank" rel="noreferrer"><img src=""/></a>
