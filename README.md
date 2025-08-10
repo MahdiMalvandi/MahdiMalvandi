@@ -17,37 +17,10 @@
 
 
 ## Contact With Me 📶
-<a href="https://www.linkedin.com/in/mahdimalvandi/">
-<img height="45rem" src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/icons8-linkedin-logo-94.png?raw=true" />
-</a>
 <a href="https://t.me/Mahdi_ml6">
 <img height="45rem" src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/icons8-telegram-94.png?raw=true" />
 </a>
 
-
-<br />
-<br />
-
-```python
-def sayMyName():
-    my_information = {
-        "first_name": "mahdi",
-        "last_name": "malvandi",
-        "age": 17,
-        "country": "iran",
-        "city": "mashhad",
-        "tools": {
-            "front_end": ["HTML","CSS","JavaScript"],
-            "back_end": ["Django", "FastAPI"]
-        },
-        "grade": "11th",
-    }
-    return my_information
-
-
-print(sayMyName())
-
-```
 
 <br />
 <br />
@@ -115,17 +88,6 @@ print(sayMyName())
 
 
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MahdiMalvandi&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<br />
-<br />
 
 
