@@ -38,7 +38,12 @@
     <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/Python_logo_01.svg.png" width="50" height="50"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/django-svgrepo-com.svg"width="50" height="50"/></a>
-
+    <a href="" target="_blank" rel="noreferrer">
+    <img src="" alt="" width="50" height="50"/>
+    </a>
+        <a href="" target="_blank" rel="noreferrer">
+    <img src="" alt="" width="50" height="50"/>
+    </a>
 
   
 </p>
@@ -66,11 +71,8 @@
     <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
     <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/rest-api-blue-logo-22098.svg" alt="" width="50" height="50"/>
     </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="" />
-    </a>
       <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="" />
+    <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/postman-icon-svgrepo-com.svg" alt="" width="50" height="50"/>
     </a>
     <a href="" target="_blank" rel="noreferrer">
     <img src="" alt="" width="50" height="50"/>
