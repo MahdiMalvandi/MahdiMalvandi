@@ -37,14 +37,14 @@
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/Python_logo_01.svg.png" width="50" height="50"/>
     </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/django-svgrepo-com.svg"width="50" height="50"/></a>
-    <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="" width="50" height="50"/>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/django-svgrepo-com.svg"width="50" height="50"/></a>
+        <a href="https://gorm.io/index.html" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/gorm.svg" alt="" width="80" height="50"/>
     </a>
-        <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="" width="50" height="50"/>
+    <a href="https://gofiber.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/fiber.svg" alt="" width="80" height="100"/>
     </a>
-
   
 </p>
 
@@ -52,13 +52,10 @@
 
 <p align="left">
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/postgresql-logo-svgrepo-com.svg" alt="PostgreSQL" width="50" height="50"/>
     </a>
-    <a href="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/mysql-logo-svgrepo-com.svg" alt="SQLite" width="70" height="50"/>
     </a>
 
   
@@ -74,9 +71,15 @@
       <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/postman-icon-svgrepo-com.svg" alt="" width="50" height="50"/>
     </a>
-    <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="" width="50" height="50"/>
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/github-mark-white.png" alt="" width="50" height="50"/>
     </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/git-icon-logo-svgrepo-com.svg" alt="" width="50" height="50"/>
+    </a>
+<!--         <a href="" target="_blank" rel="noreferrer">
+    <img src="" alt="" width="50" height="50"/>
+    </a> -->
 </p>
 <br />
 <br />
