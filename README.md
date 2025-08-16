@@ -28,25 +28,17 @@
 ## The languages\frameworks I Use
 
 <p align="left">
+    <a href="https://go.dev/" target="_blank" rel="noreferrer">
+    <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" alt="Javascript" width="50" height="50"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="Javascript" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+    <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/javascript-logo-svgrepo-com.svg" alt="Javascript" width="45" height="45"/>
     </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/Python_logo_01.svg.png" width="50" height="50"/>
     </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></a>
-    <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/></a>
-    <a href="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/></a>
-    <a href="" target="_blank" rel="noreferrer"><img src=""/></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/django-svgrepo-com.svg"width="50" height="50"/></a>
+
 
   
 </p>
@@ -71,8 +63,8 @@
 ## The Tools I Use
 
 <p align="left">
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="" />
+    <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/MahdiMalvandi/MahdiMalvandi/blob/main/rest-api-blue-logo-22098.svg" alt="" width="50" height="50"/>
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="" />
@@ -80,7 +72,9 @@
       <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="" />
     </a>
-
+    <a href="" target="_blank" rel="noreferrer">
+    <img src="" alt="" width="50" height="50"/>
+    </a>
 </p>
 <br />
 <br />
